@@ -2,20 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+.y{
+    background-image: url("./assets/webaliser-_TPTXZd9mOo-unsplash 1.png");
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.b{
+    background-image: url("./assets/BG.png");
 }
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.q{
+    background-image: url("./assets/Rectangle 37.png");
 }
